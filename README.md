@@ -4,8 +4,11 @@
 
 **Project Title**: Sales overview 
 
-
 Through 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 data-driven analysis, I identified the best-selling fragrances, the impact of customer reviews on sales, and the role of discount strategies in influencing purchasing decisions. Understanding how Aquatic, Fruity, and Citrus fragrances dominated the market, while Stick-based packaging slightly outperformed Spray and Roll-On formats.
+
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/73474d3be22c4a5b3e237bbc34482eda85c86a53/Screenshot%202025-05-20%20210952.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/73474d3be22c4a5b3e237bbc34482eda85c86a53/Screenshot%202025-05-20%20211002.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/73474d3be22c4a5b3e237bbc34482eda85c86a53/Screenshot%202025-05-20%20211012.png)
 
 ## Objectives
 
